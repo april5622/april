@@ -5,3 +5,7 @@ You can always find me here 💻:
 
 * Sharing more about my projects on [aprilma.com](https://aprilma.com/)🖼.
 * Connecting with everyone on [LinkedIn](https://www.linkedin.com/in/aprilma-sf/)💼!
+
+Hope you have a nice day!☀
+
+-April
