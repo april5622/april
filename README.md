@@ -1,5 +1,5 @@
 # Hello 😊
-I'm April and I'm a full stack developer. I love building fun and helpful applications, as well as continuing to elevate my skills in tech!
+I'm April and I'm a full stack developer (Javascript | Python | React | Redux | Node.js). I love building fun and helpful applications, as well as continuing to elevate my skills in tech!
 
 You can always find me here 💻:
 
